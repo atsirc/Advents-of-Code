@@ -1,0 +1,14 @@
+{
+  "name": "aoc_2019",
+  "version": "1.0.0",
+  "description": "testin node with aoc problem",
+  "main": "dag_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
