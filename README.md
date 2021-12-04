@@ -3,7 +3,7 @@
 2018: Python
 2019: JS
 2020: Java
-2021: Python 
+2021: Python
 
 Unfinished included parts:
 
