@@ -6,7 +6,6 @@ lines = [(pattern, output) for pattern, output in (line.split(' | ') for line in
 #seven = 3
 #eight = 7
 
-
 def count_1478_in_output():
     unique_lengths = [2,4,3,7]
     appearances = 0
